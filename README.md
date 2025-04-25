@@ -59,7 +59,7 @@ test/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/flutter-clean-architecture-starter.git
+git clone https://github.com/faizatflutter/clean_base_project
 cd flutter-clean-architecture-starter
 ```
 
